@@ -1,0 +1,1614 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-10-15T06:50:03.329647577Z",
+    "templateType": "trip_g",
+    "propertyId": "967e2d61-dbed-4e43-af01-c6905c766ef7",
+    "homepageId": "01a11607-4e66-7953-b8b7-435189c5427f"
+  },
+  "property": {
+    "id": "967e2d61-dbed-4e43-af01-c6905c766ef7",
+    "name": "제주 알리바",
+    "nameEn": "Jeju Alliba Hotel",
+    "description": "알리바호텔은 비즈니스 및 여행 모두를 충족시킬 수 있는 제주호텔 입니다. 일상에서 지친 몸과 마음의 피로를 풀어보세요!",
+    "subtitle": "",
+    "address": "제주특별자치도 제주시 서광로 251 (삼도일동) 제주 알리바 호텔",
+    "latitude": 33.5000219696944,
+    "longitude": 126.523364211164,
+    "contactPhone": [
+      "064-805-8336"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 저녁 10시 이후 입실 시 반드시 펜션으로 사전 연락 부탁드립니다.",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 저녁 10시 이후 입실 시 반드시 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 6세 이상\n- 아동: 24개월 이상~6세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 10,000원, 아동 1인 무료, 유아 무료\n(1박기준/현장결제)\n- 5세이하는 무료이나, 인원수에는 포함\n※ 전 객실 최대인원 초과입실 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n- 편의점: 도보 1분 CU 제주신삼도점\n- 마트: 차량 9분 하나로마트 제주시농협오라점\n- 제주시내버스터미널 (도보 7분)\n- 제주시청(대학로) (도보 5분)\n- 제주국제공항 (차량 10분)\n- 이호테우해변 (차량 18분)\n- 용두암 (차량 8분)\n- 제주목 관아 (차량 9분)\n- 에코랜드 테마파크 (차량 27분)\n- 닭머르해안길 (차량 23분)\n- 도두봉 (차량 19분)\n\n[주차장]\n- 주차장 보유 \n- 호텔 뒤 공터에 주차 가능",
+    "reservationGuide": "",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "alivahotel.com",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/2547",
+    "ybsId": "63313",
+    "tripPropertyId": "2547",
+    "partnerType": "sales_agency",
+    "tripProviderName": "트립일레븐",
+    "amenities": [
+      "주차장"
+    ],
+    "nearbyAttractions": [
+      "포레스트뷰(산)",
+      "해수욕장"
+    ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "알리바호텔",
+      "businessNumber": "222-69-00062",
+      "representativeName": "김희숙",
+      "businessAddress": "제주특별자치도 제주시 서광로 251(삼도일동)",
+      "businessPhone": "",
+      "businessEmail": "vip5530@hanmail.net",
+      "businessType": "corporate",
+      "businessCategory": "숙박업",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "01a11607-43c6-7426-b5fb-7cf7009eb644",
+        "name": "로비",
+        "description": "알리바 호텔의 고유의 분위기가 녹아있는\n알리바 호텔의 로비입니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a11607-4c13-71fd-8b94-ee35819b761a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11607-43c6-7426-b5fb-7cf7009eb644/main/1791370938994-117do8kcde.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4c5d-7d43-bf91-c34d65fb247f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11607-43c6-7426-b5fb-7cf7009eb644/main/1791370939071-hksca044bk.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4cca-7e7e-91f2-f0d1a0e241d7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11607-43c6-7426-b5fb-7cf7009eb644/main/1791370939139-ja4pt8im1z.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4d1d-7144-af58-37a2390731f5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11607-43c6-7426-b5fb-7cf7009eb644/main/1791370939163-mx8howi610.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4e3e-7b4a-a9ab-6003e61d78b0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11607-43c6-7426-b5fb-7cf7009eb644/main/1791370939362-xaxs7g42er.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4e10-797c-9114-b4179d1f9f16",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11607-43c6-7426-b5fb-7cf7009eb644/main/1791370939428-lrce2be6ho.webp",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "59c8bda7-48ec-464f-8e14-e0b0bfd54616",
+        "name": "편의 및 주변 시설",
+        "description": "",
+        "usageGuide": "- 와이파이 보유\n\n- 편의점: 도보 1분 CU 제주신삼도점\n- 마트: 차량 9분 하나로마트 제주시농협오라점\n- 제주시내버스터미널 (도보 7분)\n- 제주시청(대학로) (도보 5분)\n- 제주국제공항 (차량 10분)\n- 이호테우해변 (차량 18분)\n- 용두암 (차량 8분)\n- 제주목 관아 (차량 9분)\n- 에코랜드 테마파크 (차량 27분)\n- 닭머르해안길 (차량 23분)\n- 도두봉 (차량 19분)",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a11607-49a8-7914-ac0c-0f3044807a16",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/59c8bda7-48ec-464f-8e14-e0b0bfd54616/main/1791370937940-prvia5m0iu.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4a9f-7690-93c8-95ef73d3d8fb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/59c8bda7-48ec-464f-8e14-e0b0bfd54616/main/1791370938182-ou887qdtbw.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4ab4-7eae-aca4-599d36c9621c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/59c8bda7-48ec-464f-8e14-e0b0bfd54616/main/1791370938730-yqsutux8kc.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4bb9-750b-95dd-4e4389dc9530",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/59c8bda7-48ec-464f-8e14-e0b0bfd54616/main/1791370938776-978kdm32j0.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11607-4b69-7ebd-af37-b878281ed342",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/59c8bda7-48ec-464f-8e14-e0b0bfd54616/main/1791370938804-95474tuk9z.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "7594dc14-8e11-4a0d-a7ae-71fb77d91e69",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/jcqN5mOf7VGy.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "91c0315f-cc51-45ff-9855-a27c5400f103",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/2eLKmYASUDqM.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "dd87e579-a05e-4d95-a73e-f8b51c763be6",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/ZEyTQ4sSiPg2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "493081e7-3a00-4f19-aef9-4cbf083a906b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/7rxAiRf8woWV.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0e9313bf-2cbb-4c1a-b0d9-894c33a6693e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/Pdobpymwa1Rk.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d617a137-cecc-48b4-8f67-188bf394c0ae",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/yFKI5Vi7aX0U.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fda7a530-86fe-43f6-8c32-a0262c81d8e3",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/DEHwcgk7Pmd3.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9d2cbb31-f8d7-42aa-9f04-59147d7e0534",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2021/11/30/jTvtFEqJeyHI.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+      "name": "더블룸(랜덤배정) 1",
+      "description": "원룸형, 침대룸(더블침대1)+화장실1\n8.00평\nPC,TV,금연,냉장고,드라이기,바디워시,샴푸,에어컨,와이파이,치약,커피포트,타월,VOD,욕실용품",
+      "roomInfo": "",
+      "usageGuide": "원룸형: 침대룸+화장실\r\n\r\n# 인원추가시 (1박 기준/현장결제)\r\n6세 이상 ~ 성인: 1인 10,000원\r\n※ 5세이하는 무료이나, 인원수에는 포함\r\n※ 전 객실 최대인원 초과입실 불가",
+      "group": null,
+      "size": 26.45,
+      "baseOccupancy": 2,
+      "maxOccupancy": 2,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "수건",
+        "에어컨",
+        "샴푸",
+        "바디워시",
+        "헤어드라이어",
+        "전기포트",
+        "치약",
+        "무료 WiFi",
+        "욕실용품",
+        "VOD",
+        "냉장고",
+        "금연",
+        "TV",
+        "PC"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "748a2bfc-ee0b-4f3d-b9f7-eb5795f59d6c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/MmpiUYJbscZD.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "a491bfd9-4290-4813-8c5f-6beba49cc155",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/P0I9hRqju5Sa.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "97cf125c-bcc1-4c43-9959-16f7804cf269",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/H5Z9sjqoUXnh.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d3078184-b500-471d-b77d-21ba9fb55a3c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/BCpLoqAsJlTE.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "bb9a86a6-7aef-4c2c-8b4b-cdf651029430",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/RIrpD0f7FQg1.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "24f02170-b493-41e5-8c91-850a9bdbe47f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/X6dOPVUF4zrN.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b664cea6-35c5-47d6-b12a-6ddf9fbf375e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/YXRDd6Fi0TV2.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "e6db5b64-ae68-4b22-bd75-8d4164f000e4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/moRK1gU9h3nV.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "32eb2c81-05f3-4701-874e-4ce61b19218a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/vi3sdA1yMzPe.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "f2e89d91-a16b-4098-831d-8f9851f6d0a1",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/EvrJbQoljug7.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ae2abebd-2c33-4cd5-b5cb-0c5e88a43612",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/Ay0ZVdeMvXhj.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    },
+    {
+      "id": "4cad3954-354e-48d0-883c-62f830579368",
+      "name": "디럭스트윈룸 (랜덤배정) 8",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+화장실1\n8.00평\nPC,TV,금연,냉장고,드라이기,바디워시,샴푸,에어컨,와이파이,치약,커피포트,타월,VOD,욕실용품",
+      "roomInfo": "",
+      "usageGuide": "원룸형: 침대룸(싱글1개/더블1개)+화장실\r\n\r\n# 인원추가시 (1박 기준/현장결제)\r\n6세 이상 ~ 성인: 1인 10,000원\r\n※ 5세이하는 무료이나, 인원수에는 포함\r\n※ 전 객실 최대인원 초과입실 불가",
+      "group": null,
+      "size": 26.45,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전기포트",
+        "치약",
+        "무료 WiFi",
+        "에어컨",
+        "샴푸",
+        "바디워시",
+        "헤어드라이어",
+        "냉장고",
+        "금연",
+        "욕실용품",
+        "VOD",
+        "수건",
+        "TV",
+        "PC"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "4d521b44-76ad-4913-af9f-8d450cf1219e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/YKphMfQvdAny.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "ea0d5311-7622-47e6-acbd-e7c87bad4ee5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/Ypk8LAlJiefn.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7894889f-d92b-41a0-9f59-ad1ec9c9848f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/zTVmab4KjwYQ.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "af7009f6-db2f-43bb-994e-bf4d1abe88e9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/oewrZBUjqJWf.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "561b7a3a-a94c-4cdc-8875-f73fa58c1e3b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/Jo6rIS8MltZz.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "49f5dbb2-ee5b-4f2b-b305-81e6db977c9b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/tqVWgFCcISyU.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "f196b9af-bd88-4f9a-b2a3-9a2fd5f55b81",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/boSiJmKMVvtd.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "51084b73-daaa-444b-bb8f-09c798f494ed",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/D58PvApsIXji.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4174f750-c8e7-4b81-8340-9bd4dc3f7f8a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2021/11/30/qSk692jURGdX.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 14
+    }
+  ],
+  "homepage": {
+    "id": "01a11607-4e66-7953-b8b7-435189c5427f",
+    "domain": "alivahotel.com",
+    "templateType": "trip_g",
+    "images": [
+      {
+        "logo": [
+          {
+            "id": "01a11607-6f5f-7727-8a71-bb4ae62b3ee2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/logo/1791370940521-88l5ejcasj.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "title": "제주 알리바",
+      "description": "알리바호텔은 비즈니스 및 여행 모두를 충족시킬 수 있는 제주호텔 입니다. 일상에서 지친 몸과 마음의 피로를 풀어보세요!",
+      "keywords": "제주펜션,제주도펜션,제주펜션",
+      "naverSiteVerification": "152467184a78216fc17755ee4ba741de4f05328e",
+      "googleSiteVerification": "ShdRfIkxKEsX-eqfRxP5MDYIQ4mKVE8awuzRofOg0bs"
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "ALIBA HOTEL",
+                "images": [
+                  {
+                    "id": "01a11607-6f61-71b3-a678-0aa4187ede18",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370940657-knrfx0xowd.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f5e-7a0b-b6a7-add47668b17f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370940535-oi3i24n13y.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f60-75f1-be44-73cc4b89370a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370940655-ng5gjvb9fq.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f61-759f-8472-27bd755037fa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370940540-pby83ggbv6.webp",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f84-763c-9f1a-3dad2cdb55d7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370940644-p30g66zrui.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f75-793e-8a3b-94916c01c0ba",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370940942-b4lxt527a5.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f78-7023-ac37-386bc7147193",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370941091-29zmpnhyhq.webp",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f79-7248-9812-e699f6b80fc4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370941168-g4m9orm07q.webp",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f7c-7e33-80de-d3faf2def7c2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370941203-s0is01mx61.webp",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f79-75e6-a553-ac406e9e014f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370941229-ivgo4ff75l.webp",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f90-7482-8f5f-0fd46873562e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370941386-6qssd3muhz.webp",
+                    "sortOrder": 10,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f90-7164-a219-b2a8b6cb17d0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370941445-046kq5926b.webp",
+                    "sortOrder": 11,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6f91-71e4-a9b0-ac8c7a84fd78",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_hero/1791370941474-9lzthnbaiv.webp",
+                    "sortOrder": 12,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "지친 일상을 벗어나 쉴 수 있는 이곳 제주 알리바"
+              },
+              "closing": {
+                "title": "아름다운 제주를 고스란히 느낄 수 있는 이곳에서\n특별한 하루를 만들어보세요.",
+                "images": [
+                  {
+                    "id": "01a11607-6f92-7d45-aa06-28de6e762bd7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_closing/1791370941636-s7qex9f7tw.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "Stay with your beloved companion In a clean, cozy cabin.\nEnjoy a happy moment with your companion"
+              },
+              "essence": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "Aliba Hotel",
+                "images": [
+                  {
+                    "id": "01a11607-6f91-701c-8775-4f206a367047",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/index_gallery/1791370941509-xntqgpyjss.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "지친 일상을 벗어나 쉴 수 있는 이곳\n제주 알리바에 오신 것을 환영합니다."
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a11607-704b-79b0-b418-99d61f85d66a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/directions_hero/1791370943840-nue3yr6hyk.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "notice": {
+                "title": "[자가용 이용시]",
+                "description": "· 네비게이션에 주소를 검색해주세요.\n지번 주소 : 제주특별자치도 제주시 삼도일동 558-5\n도로명 주소 : 제주특별자치도 제주시 서광로 251 (삼도일동)"
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "호텔 인사말",
+                "images": [
+                  {
+                    "id": "01a11607-6f9f-79b7-a7db-078433298200",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370941742-njux9rmkn0.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fa7-7307-85dc-f55a9a1adcd6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370941842-t4ff1x99w9.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fa7-756d-b4bd-17ebe10baf0c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370941867-2azcxcv8mu.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fa8-721e-8338-dbe25e936ec7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370941909-z9ok9nlr6r.webp",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fab-768d-b5f1-2bdf3593d361",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370942305-nbtlkfy7ww.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fae-7448-8a47-d0f0dc15f671",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370942354-nkhsl6wx9h.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fb6-7f92-b428-f8a754bfa19b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370942372-x0ol0r7r6g.webp",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fbd-72aa-97ec-e9306bb7cad8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370942406-bbkcv1ah5d.webp",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a11607-6fcc-7fed-b837-0ca7ddad2fbc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_hero/1791370942392-crzya5q49q.webp",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "제주 알리바 - 호텔소개"
+              },
+              "about": [
+                {
+                  "title": "Greetings",
+                  "images": [
+                    {
+                      "id": "01a11607-6fcc-7978-a964-acd38fc9b5fe",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370942551-fghec4ck0e.webp",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f3a9baad-9fad-41d1-b7f8-9276bbfa5efd"
+                    },
+                    {
+                      "id": "01a11607-6fcf-7dc8-b73e-5601cb760846",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370942851-i3g8tl6f63.webp",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f3a9baad-9fad-41d1-b7f8-9276bbfa5efd"
+                    },
+                    {
+                      "id": "01a11607-6fcb-7c21-bae2-a99b16792c02",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370942798-m8a7wmbgvm.webp",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f3a9baad-9fad-41d1-b7f8-9276bbfa5efd"
+                    },
+                    {
+                      "id": "01a11607-6fd8-7957-934a-9cfdcac9c63a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370942981-22ip53q52t.webp",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f3a9baad-9fad-41d1-b7f8-9276bbfa5efd"
+                    }
+                  ],
+                  "blockId": "f3a9baad-9fad-41d1-b7f8-9276bbfa5efd",
+                  "description": "아름다운 청정 제주,\n비즈니스 및 레저 여행 모두를 충족시킬 수 있는\n제주 알리바에 오신것을 환영합니다.\n제주 알리바은 도시에서 가장 유명한 지역 중 하나인 제주 시내에 있습니다.\n\n도시의 필수 관광 명소에 쉽게 접근할 수 있는 편리한 위치를 자랑하고,\n생동감 넘치는 도시의 많은 것을 최대로 즐길 수 있습니다.\n훌륭한 서비스와 우수한 시설로 이루어진 알리바 호텔에서\n잊을 수 없는 여행을 만들어 보세요."
+                },
+                {
+                  "title": "Landscape",
+                  "images": [
+                    {
+                      "id": "01a11607-712c-7615-9e83-4a453132b656",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370943022-w5udrc9y5g.webp",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c26c4a7f-be11-4375-a9a2-f55722c15a40"
+                    },
+                    {
+                      "id": "01a11607-6fe6-7432-a23e-b4f6e1992f8a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370943137-nh94rybnbg.webp",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c26c4a7f-be11-4375-a9a2-f55722c15a40"
+                    },
+                    {
+                      "id": "01a11607-6fe9-780a-848c-c5b71e6d50a8",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370943183-0qadzst4jy.webp",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c26c4a7f-be11-4375-a9a2-f55722c15a40"
+                    },
+                    {
+                      "id": "01a11607-7031-782d-9286-ce1212e1077a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370943256-mp3cvsuzcn.webp",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c26c4a7f-be11-4375-a9a2-f55722c15a40"
+                    },
+                    {
+                      "id": "01a11607-7031-721a-aa7b-c62170db1c6c",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/main_about/1791370943512-k3oefgnkfa.webp",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c26c4a7f-be11-4375-a9a2-f55722c15a40"
+                    }
+                  ],
+                  "blockId": "c26c4a7f-be11-4375-a9a2-f55722c15a40",
+                  "description": "아름다운 제주가 함께하는\n제주 알리바을 미리 만나보세요."
+                }
+              ]
+            }
+          ]
+        },
+        "room": [
+          {
+            "id": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          },
+          {
+            "id": "4cad3954-354e-48d0-883c-62f830579368",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a11607-704a-7613-8e12-d6bd438ed7fb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/reservation_hero/1791370943654-gx3l7xi96a.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "주변 여행지",
+                "images": [
+                  {
+                    "id": "01a11607-7061-711d-8482-e00d48f9be35",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/nearby_attractions_hero/1791370944127-uon7rm4yra.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "제주 알리바 - 관광안내"
+              },
+              "about": [
+                {
+                  "title": "제주목 관아",
+                  "images": [
+                    {
+                      "id": "01a11607-7062-78b2-9f65-bb28a9b0a669",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/nearby_attractions_about/1791370944132-23m87p47o7.webp",
+                      "sortOrder": 0,
+                      "description": "호텔에서 차량으로 약 7분, 2.1km",
+                      "isSelected": true,
+                      "blockId": "f25c7bcd-e930-4549-a1e5-f2b1d8caf18a"
+                    }
+                  ],
+                  "blockId": "f25c7bcd-e930-4549-a1e5-f2b1d8caf18a",
+                  "description": "제주목관아는 관덕정(보물 제322호)을 포함하는 주변 일대에 자리하고 있었으며, 주요 관아시설이 있었던 곳이다. 탐라국 이래 조선시대에 이르기까지 제주 행정의 중추 역할을 해왔던 제주목 관아지를 1991년부터 1998년까지 4차례 발굴조사한 결과 문헌상에 나타나는 중심건물인 홍화각, 연희각, 우연당, 귤림당, 영주협당 등 30여 채의 건물의 흔적이 확인되었고, 지난 1993. 3. 30일과 2003. 7. 6일 2회에 걸쳐 주변토지가 국가 사적지 제380호로 지정되었다.\n자료출처 : 비짓제주(www.visitjeju.net)"
+                },
+                {
+                  "title": "용두암",
+                  "images": [
+                    {
+                      "id": "01a11607-707a-702e-b1e9-c0e5d60c7596",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/nearby_attractions_about/1791370944258-k10m8jz42t.webp",
+                      "sortOrder": 1,
+                      "description": "호텔에서 차량으로 약 10분, 2.9km",
+                      "isSelected": true,
+                      "blockId": "b44fd49c-29d9-4b5a-ad10-65dbab21a44c"
+                    }
+                  ],
+                  "blockId": "b44fd49c-29d9-4b5a-ad10-65dbab21a44c",
+                  "description": "용담2동, 공항 북동쪽 해안에 있는 용두암은 제주관광의 상징과도 같은 곳이다. 공항과 가장 가까운 관광지로 해외여행자나 단체여행객들이 자주 찾는 관광지다.  용이 포요하며 바다에서 솟구쳐 오르는 형상을 따 용두암이라 이름지어졌다. 전설에 의하면 인근 계곡 용연에서 살던 용이 승천하려다가 돌로 굳어졌다고 한다. 겉으로 드러난 부분의 높이가 10m, 바다 속에 잠긴 몸의 길이가 30m 쯤 된다고 하니, 괴암을 응시하고 있자면, 정말로 용이 꿈틀거리는 것 같은 상상을 할 법도 하다.\n자료출처 : 비짓제주(www.visitjeju.net)"
+                },
+                {
+                  "title": "이호테우해수욕장",
+                  "images": [
+                    {
+                      "id": "01a11607-707a-7d79-8234-1f3df7ecb3ab",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/nearby_attractions_about/1791370944499-ibf3io0rh6.webp",
+                      "sortOrder": 2,
+                      "description": "호텔에서 차량으로 약 19분, 7.1km",
+                      "isSelected": true,
+                      "blockId": "d03225d9-900e-4bec-9553-bf04f68c8ee0"
+                    }
+                  ],
+                  "blockId": "d03225d9-900e-4bec-9553-bf04f68c8ee0",
+                  "description": "낮과 밤이 모두 아름다운 제주 해변. 그중에서도 많은 여행객에게 사랑받는 해변이 있다. 조랑말 등대로 제주도 사진 찍기 좋은 곳으로 잘 알려진 이호테우해변이다. 붉은 조랑말과 흰색의 조랑말은 극명하게 대조되는 색감이 우리에게 이국적인 풍경을 선사한다.\n자료출처 : 비짓제주(www.visitjeju.net)"
+                },
+                {
+                  "title": "도두항",
+                  "images": [
+                    {
+                      "id": "01a11607-7093-7235-a898-771608b2df4b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/nearby_attractions_about/1791370944592-tq7z6a36lm.webp",
+                      "sortOrder": 3,
+                      "description": "호텔에서 차량으로 약 19분, 7.2km",
+                      "isSelected": true,
+                      "blockId": "d609fe42-7b20-4200-9a82-3bcef5a745d2"
+                    }
+                  ],
+                  "blockId": "d609fe42-7b20-4200-9a82-3bcef5a745d2",
+                  "description": "용두암 해안도로와 이호테우 사이에 위치한 방파제로 관탈도와 추자도행 낚시배들이 출항하는 곳으로 유명하다. 찾기 쉽고 발판도 비교적 좋아 낚시꾼들이 즐겨 찾는다. 근처에 숙박시설과 식당, 낚시점들이 적절히 위치해 있어 관광객과 현지인 모두 편리하게 이용할 수 있다.\n자료출처 : 비짓제주(www.visitjeju.net)"
+                },
+                {
+                  "title": "한라수목원",
+                  "images": [
+                    {
+                      "id": "01a11607-7097-73ff-a598-47af7606e2ad",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/nearby_attractions_about/1791370944655-04g6ydaedr.webp",
+                      "sortOrder": 4,
+                      "description": "호텔에서 차량으로 약 19분, 8.5km",
+                      "isSelected": true,
+                      "blockId": "1578f3a3-50b8-44ae-abcc-b8ee39c05525"
+                    }
+                  ],
+                  "blockId": "1578f3a3-50b8-44ae-abcc-b8ee39c05525",
+                  "description": "제주시 연동 1100 도로변 광이오름 기슭에 위치한 한라수목원은 제주도 자생수종과 아열대식물 등의 식물들이 식재, 전시되어있는 수목원으로 학생 및 전문인들을 위한 교육과 연구의 장 역할을 하고 있으며, 테마관광지로도 사랑받고 있다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "도두동 무지개 해안도로",
+                  "images": [
+                    {
+                      "id": "01a11607-70ab-7e1f-b919-651115008a4c",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/nearby_attractions_about/1791370944691-cjwmqasgfx.webp",
+                      "sortOrder": 5,
+                      "description": "호텔에서 차량으로 약 19분, 7.5km",
+                      "isSelected": true,
+                      "blockId": "47bf405e-2f47-41cf-b232-89891f91f741"
+                    }
+                  ],
+                  "blockId": "47bf405e-2f47-41cf-b232-89891f91f741",
+                  "description": "용담해안도로는 용담레포츠공원부터 도두봉 근처까지 이어지는데, 도두동 무지개 해안도로는 바로 이 용담이호해안도로를 타고 달리다 보면 만날 수 있으며, 해안도로를 배경으로 빨주노초파남보 무지개색으로 칠해진 방호벽을 볼 수 있다.\n자료출처 : 비짓제주(www.visitjeju.net)"
+                }
+              ],
+              "enabled": true
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "Room Preview",
+                "images": [
+                  {
+                    "id": "01a11607-70af-7a9a-bd50-66033694f25e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/layout_map_hero/1791370944626-ujs8ee5fzp.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "객실미리보기"
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "enabled": false
+            }
+          ]
+        },
+        "landing": {
+          "sections": [ ]
+        }
+      },
+      "popup": {
+        "popups": [ ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "제주 알리바",
+        "images": [
+          {
+            "id": "01a11607-70c5-7442-92eb-c9d0f42cceeb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370944760-4o38gvvg3p.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-70c6-789c-8640-6650a46a9240",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370944797-iia2nlj02a.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-70df-7f61-ba00-f329f74e7d12",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370944910-f3xa1lgkku.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-70df-7c0e-b26b-db312c42608c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370944940-m9ferevn2g.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-70f7-7598-9831-849d0e0eb377",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370945145-va8u08r7qq.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-70f9-739b-929b-f7a85efca32d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370945256-22pwun808i.webp",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-710e-778d-a7fd-e5779a1a6777",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370945330-0bfuixwxji.webp",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-7111-73d8-a44e-f1a2332fc4a9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370945358-zijpm1rzhs.webp",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a11607-7129-7df0-a41e-235098cba7b0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/property_exterior/1791370945404-tz1upq2k3d.webp",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
+        "nameEn": "Aliba Hotel"
+      },
+      "roomtypes": [
+        {
+          "id": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+          "name": "더블룸(랜덤배정)",
+          "images": [
+            {
+              "id": "01a11607-712c-7db6-ac2a-4ecacb6dfcd6",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_thumbnail/1791370945451-ap8yslhcgh.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11607-7134-76a6-b2c3-c6b5b4e9e393",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370945557-k9aagda9jg.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7133-7414-b96a-c7eb1041ed6f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370945737-031gjedwrx.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7139-7e50-ae45-9bc4f522ee78",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370945905-z3klf9fj6d.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7141-7dbd-8533-6e28b18a9e01",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946008-iwxq3h666n.webp",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7142-7eee-b124-c046253e2891",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946104-4p1llpjatd.webp",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7191-73d2-9283-6a15ea72f9da",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946132-iyjztahdcc.webp",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7192-7556-a357-875931bbbcce",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946209-lcbqlvjtb8.webp",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7158-7c5e-bace-40b59cb0c3bd",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946366-osor0clky3.webp",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-715b-7e86-899a-b93442ee90e8",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946461-e10ik9w7j5.webp",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-716f-7742-a25f-d01dc14d5b1f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946608-xeqq4nhksa.webp",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7172-747f-85e9-055828ecff3b",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370946642-o0y2l1f8px.webp",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-7187-7082-a8c1-2637f5aa5794",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370946684-lbl8qai6go.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11607-7189-7520-a3c9-b93817fe7cee",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370946751-oj445z5dku.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11607-7199-72ec-a619-d9466d4fc05d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370946933-fd1v9rwci5.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11607-7199-7f63-8548-90fbf3d3f85f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370947017-gjx9z60jj8.webp",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "c01c557b-70e4-4818-b015-2a95776a7a0e",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": ""
+        },
+        {
+          "id": "4cad3954-354e-48d0-883c-62f830579368",
+          "name": "디럭스트윈룸 (랜덤배정)",
+          "images": [
+            {
+              "id": "01a11607-71a1-7fba-acde-9653f2ccdea2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_thumbnail/1791370947074-hedol4x7sq.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a11607-71a1-7081-a212-7622055cc528",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947102-7299b2cp31.webp",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71a9-74a6-8b4f-e29ec8da0f68",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947143-q2jl4btjz2.webp",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71a9-7b77-9778-da0ed06324d9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947240-1yvgmvnpv3.webp",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71b0-7a50-92f6-3e1dd4bedbab",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947466-odtw3v8fy0.webp",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71b1-756c-bffa-addc6e4af6bf",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947490-obn5wpztjl.webp",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71ba-787a-b014-af4b5dfb1b59",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947548-3svehl8ryp.webp",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71bb-79f5-949d-635564a65f81",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947495-z3gtnsm5s5.webp",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71c4-7b4e-835f-3144ca0bf638",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947553-h97amjpttt.webp",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71c2-773e-804a-55dfc1efd209",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_interior/1791370947572-99bq80krfx.webp",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a11607-71c7-72be-9913-18c4a770e4fd",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370947799-5pecykhfs2.webp",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11607-71c9-7440-a46b-4965427ed433",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370947841-am8g2ikw5g.webp",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11607-71d1-775b-9d4f-fdfbc6d74cc9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370947949-rjzjapybh7.webp",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a11607-71d2-7f37-aaea-e033718b9f60",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11607-4e66-7953-b8b7-435189c5427f/roomtype_exterior/1791370947954-f21p87kzfb.webp",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": "4cad3954-354e-48d0-883c-62f830579368",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": ""
+        }
+      ]
+    }
+  }
+}
